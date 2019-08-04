@@ -1,2 +1,5 @@
-def veg1, veg1 myLanguage language
-  "Hi, my name is #{name} and I am learning to program in #{language}."
+def meal_choice veg1, veg2, protien=Meat 
+end
+def "A plate of #{protein} with #{veg1} and #{veg2}."
+end
+puts "What a nutritious meal"
