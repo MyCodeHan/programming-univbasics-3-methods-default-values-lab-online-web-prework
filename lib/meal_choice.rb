@@ -1,2 +1,2 @@
-puts , myLanguage language
+def veg1, veg1 myLanguage language
   "Hi, my name is #{name} and I am learning to program in #{language}."
