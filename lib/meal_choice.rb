@@ -1,1 +1,2 @@
-# Your code here
+puts , myLanguage language
+  "Hi, my name is #{name} and I am learning to program in #{language}."
